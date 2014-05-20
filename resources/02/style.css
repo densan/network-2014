@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    /**
+     * #EEEEEE は #EEE とも書けます
+     * 大文字, 小文字の区別はありません
+     */
+    background-color: #EEEEEE;
+}
+
+#club {
+    /* #3F3 とも書けます */
+    color: #33FF33;
+}
+
+#team {
+    /* #FA8 とも書けます */
+    background-color: #FFAA88;
+    text-align: left;
+}
+
+.sample {
+    /* #28F とも書けます */
+    background-color: #2288FF;
+    text-align: left;
+}
