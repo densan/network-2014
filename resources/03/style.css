@@ -1,0 +1,24 @@
+.list {
+    width: 300px;
+    margin: 0;
+    padding: 10px 5px 10px 5px;
+    /* 背景 */
+    background: rgba(250, 200, 150, 0.5);
+}
+.list > li {
+    /* リストの記号 */
+    list-style-type: none;
+    /* 行の高さ */
+    line-height: 2em;
+}
+.list > li:before {
+    content: ">";
+    /* 文字色 */
+    color: #f00;
+    /* 右のマージン */
+    margin-right: 5px;
+}
+.list > li + li {
+    /* 上のボーダー */
+    border-top: 2px dotted rgb(255, 194, 194);
+}
