@@ -12,4 +12,4 @@
 1. 5/27 第三回講座 [資料](http://www.slideshare.net/nanametown/denweb3) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/1-ePvnTNkWjNNqlzo-jbwseMrWWTI-nV_3Ww_Be1zJqE/viewform)
 1. 6/3 第四回講座 [資料](http://www.slideshare.net/ww24jp/github-pages-35389103) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/11slTS3zb40N1q_BWVl6Q-AdncplwcyXeIMv113wvPPE/viewform)
 1. 6/10 第五回講座 [資料](http://www.slideshare.net/nanametown/denweb4) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/1POa629VQtS5iJ4Nfy0966lubHiil5hLvh4-pEA63MKI/viewform)
-1. 6/17 第六回講座 [資料](http://www.slideshare.net/nanametown/ss-35951593) アンケート
+1. 6/17 第六回講座 [資料](http://www.slideshare.net/nanametown/ss-35951593) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/1xe_iijkWgdzeHC_vAG0cGN2zXchYGGzJ3ssslTbkwNs/viewform)
