@@ -16,4 +16,4 @@
 1. 6/24 第七回講座 [資料](http://www.slideshare.net/nanametown/web-36230246) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/1Gr8kicCnu-VgYWzTZ7XkhFjTsIUnKwV_V9nmpaXNE-4/viewform)
 1. 7/1 第八回講座 [資料](http://www.slideshare.net/nanametown/web-36496455) アンケート実施なし
 1. 7/8 第九回講座 [資料](http://www.slideshare.net/nanametown/web-36735664) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/107LJHDr_zCEyLGRWBeBZCtf56r9rNvenkTx_yTolhgc/viewform)
-1. 7/15 第十回講座 資料
+1. 7/15 第十回講座 [資料](http://www.slideshare.net/nanametown/web-36981775)
