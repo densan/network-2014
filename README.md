@@ -7,6 +7,8 @@
 
 講座資料
 -------
+
+### 前期講座
 1. 5/13 第一回講座 [資料](http://www.slideshare.net/nanametown/denweb1) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/1kJaqumN1paNIHxIVMggKvRmc6TkXgEsdif-hvVsMiWY/viewform)
 1. 5/20 第二回講座 [資料](http://www.slideshare.net/nanametown/denweb2) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/1LrNAzDZdrW0f-echizW9HCkk7T7NbkoJOO1JXZXmujA/viewform)
 1. 5/27 第三回講座 [資料](http://www.slideshare.net/nanametown/denweb3) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/1-ePvnTNkWjNNqlzo-jbwseMrWWTI-nV_3Ww_Be1zJqE/viewform)
@@ -18,3 +20,6 @@
 1. 7/8 第九回講座 [資料](http://www.slideshare.net/nanametown/web-36735664) [アンケート](https://docs.google.com/a/stu.hus.ac.jp/forms/d/107LJHDr_zCEyLGRWBeBZCtf56r9rNvenkTx_yTolhgc/viewform)
 1. 7/15 第十回講座 [資料](http://www.slideshare.net/nanametown/web-36981775) アンケート実施なし
 1. 7/22 第十一回講座 [資料](http://www.slideshare.net/nanametown/denweb11) アンケート実施なし
+
+### 後期講座
+1. 10/07 第一回講座 [資料](http://www.slideshare.net/ww24jp/01-39959135)
