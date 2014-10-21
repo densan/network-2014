@@ -24,3 +24,4 @@
 ### 後期講座
 1. 10/07 第一回講座 [資料](http://www.slideshare.net/ww24jp/01-39959135)
 1. 10/14 第二回講座 [資料](http://www.slideshare.net/ww24jp/02-40228438) [コード](resources/13/)
+1. 10/21 第三回講座 [資料](http://www.slideshare.net/ww24jp/03-40526897)
