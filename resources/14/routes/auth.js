@@ -48,7 +48,7 @@ router.get("/success", function (req, res) {
 });
 
 // 認証失敗ページ
-router.get("/success", function (req, res) {
+router.get("/fail", function (req, res) {
   res.send("認証に失敗しました。");
 });
 
