@@ -1,0 +1,20 @@
+<% extend 'layout' %>
+<form action="/register/confirm" method="post">
+    <dl>
+        <dt>ニックネーム</dt>
+        <dd>
+            <input type="text" name="name" value="<%= @name %>" placeholder="ニックネーム" class="input full"/>
+            <% if @errors.name : %>
+            <div class="error-msg"><%- @errors.name.message %></div>
+            <% end %>
+        </dd>
+        <dt>メールアドレス</dt>
+        <dd>
+            <input type="email" name="email" value="<%= @email %>" placeholder="info@example.com" class="input full"/>
+            <% if @errors.email : %>
+            <div class="error-msg"><%- @errors.email.message %></div>
+            <% end %>
+        </dd>
+    </dl>
+    <input type="submit" value="登録">
+</form>

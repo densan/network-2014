@@ -3,5 +3,9 @@
 
 Thumbs.db
 
+*.log
+
+node_modules
+
 db/*
 !db/mongod.conf
