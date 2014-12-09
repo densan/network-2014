@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+Thumbs.db
+
+db/*
+!db/mongod.conf
